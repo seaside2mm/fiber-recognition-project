@@ -1,0 +1,24 @@
+%YAML:1.0
+
+#The video dir
+video_dir: /Users/kubota/Documents/program/project/result.mp4
+#video_dir: /Users/kubota/Documents/和日升合作项目/fiber_project/data/Megamind.avi
+#pivot point
+
+left_point.x: 168
+left_point.y: 235
+
+right_point.x: 486
+right_point.y: 235
+
+
+#方框坐标
+#最下面水平线： 77
+#中间水平线： 235
+#最上面水平线： 235
+
+
+#垂直线2： 166
+#垂直线4： 343
+#垂直线5：486
+#最右边垂直线6： 629
