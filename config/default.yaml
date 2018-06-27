@@ -1,15 +1,17 @@
 %YAML:1.0
 
 #The video dir
-video_dir: /Users/kubota/Documents/program/project/result.mp4
-#video_dir: /Users/kubota/Documents/和日升合作项目/fiber_project/data/Megamind.avi
-#pivot point
+video_dir: "../data/result.mp4"
 
+#referrence point
 left_point.x: 168
-left_point.y: 235
+left_point.y: 235.5
 
 right_point.x: 486
-right_point.y: 235
+right_point.y: 235.5
+
+#图像显示停留时间
+time: 100  #默认100ms， 0：手动按下'q'键跳至下一帧
 
 
 #方框坐标
