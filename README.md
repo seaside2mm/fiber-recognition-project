@@ -7,3 +7,7 @@ For the provided video stream, the fiber end face circle is identified from the 
 ## Requirements and Dependencies
 Opencv3.3
 Cmake
+
+## demo
+**todo:上传到视频平台**
+[demo]()
