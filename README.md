@@ -9,5 +9,4 @@ Opencv3.3
 Cmake
 
 ## demo
-**todo:上传到视频平台**
 [demo]()
